@@ -33,11 +33,12 @@ FedRAMP standardizes the security assessment and authorization process for cloud
 4. **Identify the Determine-if Levels**:
    - Determine the applicable Determine-if levels for your system.
 
-5. **Select Test Cases**:
-   - Choose relevant test cases for the identified Determine-if levels.
+5. **Review Evidence provided by client**:
+   - Review relevant screenshots of the configuration on the server.
+<br><img src="https://github.com/stefanjames/stefanjames/blob/main/server-config.png?raw=true" alt=“server-config”/><br>
 
 6. **Execute Test Cases**:
-   - Follow the instructions in the template to perform the tests.
+   - Observe and examine the Access Control Policy noted that the AC-11 verbiage defined the time period of inactivity of 15 minutes (900 seconds).
 
 7. **Record Observations and Findings**:
    - Document observations and findings during the tests.
