@@ -35,7 +35,7 @@ FedRAMP standardizes the security assessment and authorization process for cloud
 
 5. **Review Evidence provided by client**:
    - Review relevant screenshots of the configuration on the server.
-<br><img src="https://github.com/stefanjames/stefanjames/blob/main/server-config.png?raw=true" alt=“server-config”/><br>
+<br><img src="https://github.com/stefanjames/stefanjames/blob/main/screen-saver-timeout.png" alt=“screen-saver-timeout”/><br>
 
 6. **Execute Test Cases**:
    - Observe and examine the Access Control Policy noted that the AC-11 verbiage defined the time period of inactivity of 15 minutes (900 seconds).
